@@ -7,8 +7,6 @@ import './App.scss';
 
 function App() {
 
-
-
   const [leftData, setLeftData] = useState({
     items,
     checkedItems: []
